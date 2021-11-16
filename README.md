@@ -1,3 +1,3 @@
 # githubTest
 
-This is sample.
+This is sample test
